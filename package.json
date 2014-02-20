@@ -1,29 +1,7 @@
 {
-  "name": "diff",
+  "name": "timoxley-diff",
+  "description": "Text diff",
   "version": "1.0.4",
-  "description": "A text diff component.",
-  "keywords": [
-    "diff",
-    "javascript"
-  ],
-  "licenses": [
-    {
-      "type": "BSD",
-      "url": "http://github.com/kpdecker/jsdiff/blob/master/LICENSE"
-    }
-  ],
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/timoxley/diff.git"
-  },
-  "engines": {
-    "node": ">=0.3.1"
-  },
-  "scripts": {
-    "test": "mocha test/*"
-  },
-  "dependencies": {},
-  "devDependencies": {
-    "mocha": "~1.6.0"
-  }
+  "keywords": [],
+  "dependencies": {}
 }
